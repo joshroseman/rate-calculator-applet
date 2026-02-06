@@ -16,9 +16,5 @@
       "src": "/api/v1/quotes",
       "dest": "/api/v1/quotes.ts"
     }
-  ],
-  "env": {
-    "SUPABASE_URL": "@supabase-url",
-    "SUPABASE_KEY": "@supabase-key"
-  }
+  ]
 }
